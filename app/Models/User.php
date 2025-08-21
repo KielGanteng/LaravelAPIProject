@@ -1,5 +1,5 @@
 <?php
-
+// This file is part of the Laravel framework.
 namespace App\Models;
 
 // use Illuminate\Contracts\Auth\MustVerifyEmail;

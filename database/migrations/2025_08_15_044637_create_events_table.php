@@ -1,5 +1,5 @@
 <?php
-
+// This file is part of the Laravel framework.
 use Illuminate\Database\Migrations\Migration;
 use Illuminate\Database\Schema\Blueprint;
 use Illuminate\Support\Facades\Schema;
